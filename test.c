@@ -4,4 +4,5 @@
 
 int main(){
     printf("hello world");
+    pritnf("second version");
 }
